@@ -1,1 +1,1 @@
-Temperature calculator allows you to calculate celsius in farenheit and vice versa really quickly.
+Temperature calculator allows you to calculate Celsius, Fareheit, Kevin and convert them into each other!

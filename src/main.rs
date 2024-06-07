@@ -2,7 +2,7 @@ use std::io::{self, Empty};
 
 fn main() {
     println!("Type the temperature you want to convert! To convert Celsius to Farenheit type with a C on the end and F to convert vice versa");
-
+loop {
     let mut input = String::new();
 
     io::stdin()
@@ -104,4 +104,6 @@ fn main() {
     else {
         println!("Wrong input! Remember to print C on the end for Celsius, F for Farenheit, K for Kelvin");
     }
+}
+    
 }
